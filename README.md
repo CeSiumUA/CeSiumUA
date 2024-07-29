@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CeSiumUA
-- 👀 I’m interested in C#, Rust and Embedded
-- 🌱 I’m currently learning Rust and C/C++
+- 👀 I’m interested in C#, Rust, C/C++ and Embedded
 - 💞️ I’m looking to collaborate on some interesting projects in System Programming
 - 📫 You colud write me here, or to this mail: codercheater@yahoo.com
 
